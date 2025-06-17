@@ -30,11 +30,3 @@ Este projeto prático cobre uma vasta gama de tópicos em programação, incluin
 - [Atividade Prática 08](#-atividade-prática-08)
 
 ***
-
-## 🚀 Atividade Prática 01
-**Foco:** Operações básicas, variáveis e saída de dados.
-
-### Programa 1: Saudação
-```python
-# Programa 1: Saudação
-print("Hello, world!")
